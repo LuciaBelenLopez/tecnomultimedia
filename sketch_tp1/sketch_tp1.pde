@@ -3,7 +3,7 @@ PImage imagen2, imagen3, imagen4, imagen5, imagen6,imagen7,imagen8;
 PImage imagen1;
 color texto;
 int pantalla;
-int frameCount;
+
 //asignacion
 void setup (){
   size(600,600);
